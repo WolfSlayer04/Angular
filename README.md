@@ -1,4 +1,4 @@
-# Manual de Instalación de Angular 19 📚
+# Manual de Instalación de Angular 19 Por Alejandro Alonso Arellano Madrigal 📚
 
 <div align="center">
 
